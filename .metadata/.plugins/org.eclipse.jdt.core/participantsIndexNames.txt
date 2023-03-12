@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\SI Academy\Desktop\Academy\Distributore_Bevande\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1024945345.index
-\DistributoreBevande\src\main\java
